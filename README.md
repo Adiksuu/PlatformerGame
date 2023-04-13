@@ -12,7 +12,7 @@ Run, Jump, Climb, Kill bats, Run away from pink goblins and don't get crushed by
 - Moving around is just as easy, you can move in two directions: Right and left using the following keys:
 
 - A - Left
-- D - Law
+- D - Right
 
 - You can also jump, because how can you do without jumping? Jumping is possible by pressing the space bar.
 
